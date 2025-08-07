@@ -1,14 +1,7 @@
 {
-    "name": "Mi Gráfico Personalizado",
-    "description": "Ejemplo básico con D3.js para Looker Studio",
-    "vendor": {
-      "name": "Tu Nombre",
-      "url": "https://tusitio.github.io"
-    },
-    "components": {
-      "data": {
-        "js": ["grafico.js"]
-      }
-    }
-  }
-  
+  "name": "Mi gráfico personalizado",
+  "id": "miGraficoPersonalizado",
+  "provider": "Erick Martínez",
+  "description": "Ejemplo básico con D3.js para Looker Studio",
+  "viz": "grafico.js"
+}
