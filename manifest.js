@@ -1,0 +1,15 @@
+export default {
+  name: "Mi Gráfico Personalizado",
+  description: "Ejemplo básico con D3.js para Looker Studio",
+  vendor: {
+    name: "Erick Martínez",
+    url: "https://erickmartinez-max.github.io"
+  },
+  components: {
+    data: [
+      {
+        js: ["grafico.js"]
+      }
+    ]
+  }
+};
